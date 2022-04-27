@@ -1,0 +1,4 @@
+#ignore certain file types
+*.zip
+*.docx
+*.pdf
